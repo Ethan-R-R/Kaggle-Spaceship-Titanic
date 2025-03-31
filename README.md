@@ -5,5 +5,5 @@ En el reporte se encuentra el proceso completo desde la lectura y limpieza de la
 La información del concurso, la base de datos y el contenido de cada una de las variables se puede encontrar en el [siguiente enlace](https://www.kaggle.com/competitions/spaceship-titanic/data). Mi pérfil de Kaggle y el nombre de mi equipo es RamosEthan.
 
 [Reporte en .ipynb](ConcursoKaggle.ipynb)<br>
-[Reporte en HTML](ProyectoParcialII.html)
+[Reporte en HTML](ProyectoParcial.html)
 
